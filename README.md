@@ -1,6 +1,7 @@
 # For DevOps 
-- Hey everyone, this is my ALX DevOps repository for all my Shell Scripting works.
 
+> __Hey everyone, this is my ALX DevOps repository for all my Shell Scripting works.__
+--------
 
 | Directories:		 	                    | Usages.
  ------------------------------------ | ----------------------------------------------------------------------------------------------- |
