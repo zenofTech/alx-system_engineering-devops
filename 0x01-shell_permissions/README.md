@@ -1,7 +1,10 @@
 # This repo is for shell permissions and creation of file.
 
+--------
+> All the scripts must be run in a Bash (Bourne Again Shell) terminal, otherwise, there maybe error or wrong output. 
 
-
+  > To use each file, change the permission of the file by running *chmod u+x name_of_file*. then, *./name_of_file* to run each file. 
+--------
 
 | FILES:		 	                         | Usages.
  ----------------------------------- | --------------------------------------------------------------------------------------------------- |
