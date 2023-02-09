@@ -1,4 +1,4 @@
-#List of all the files and their usages
+# List of all the files and their usages
 
 ## All the scripts must be run in a Bash (Bourne Again Shell) terminal, otherwise, there maybe error or wrong output.
 
