@@ -5,7 +5,7 @@
 
 | Directories:		 	                    | Usages.
  ------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| 1. 0x00-shell_basics:     	         | This dir contain scripts for shell navigation.                                		                 |
-| 2. 0x01-shell_permissions: 	        | This dir contain scripts for file creation and user permissions. 				                   |
-| 3. 0x02-shell_redirections          |  This dir contain script files for Shell, I/O Redirections and filters.                        |
-| 4. 0x03-shell_variables_expansions  | This dir contain script files Shell, init files, variables and expansions                      |
+| 0x00-shell_basics:     	         | This dir contain scripts for shell navigation.                                		                 |
+| 0x01-shell_permissions: 	        | This dir contain scripts for file creation and user permissions. 				                   |
+| 0x02-shell_redirections          |  This dir contain script files for Shell, I/O Redirections and filters.                        |
+| 0x03-shell_variables_expansions  | This dir contain script files Shell, init files, variables and expansions                      |
